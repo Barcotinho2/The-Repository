@@ -1,3 +1,8 @@
 body{
-    background: hsla(110, 80%, 48%, 0.726)
+    background: hsla(110, 80%, 48%, 0.726);
+}
+
+header{
+    background: hsla(110, 80%, 48%, 0.726);
+    color:white;
 }
