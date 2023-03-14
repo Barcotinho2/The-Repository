@@ -8,7 +8,7 @@ header{
 }
 
 .cabecalho-img{
-    width: 10%;
+    width: 12%;
 }
 
 .cabecalho{
@@ -23,7 +23,8 @@ header{
 .cabecalho-listem{
     display: inline-block;
     margin: 0 16px;
-    padding: 24px 0;
+    padding: 50px 0;
+    font-size: 34px;
 }
 
 *{
