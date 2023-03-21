@@ -1,6 +1,4 @@
-body{
-    background: #383D58;
-}
+
 
 header{
     background: #383D58;
@@ -8,11 +6,12 @@ header{
 }
 
 .cabecalho-img{
-    width: 12%;
+    width: 250px;
+
 }
 
 .cabecalho{
-    background-color: 383D58;
+    background-color: #383D58;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -30,4 +29,14 @@ header{
 *{
     margin: 0;
     padding: 0;
+}
+
+.notebook-img{
+    width: 30%;
+    color: white;
+    display: flex;
+}
+
+.escola{
+    background-image: linear-gradient(#383D58, rgba(79, 153, 238, 0.543));
 }
