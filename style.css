@@ -64,14 +64,34 @@ body{
 
 .alicone{
     width: 30px;
-    
+    padding-inline: 8px;
 }
 
 .aluno-div{
     text-align: center;
+    padding: 30px;
 }
 
 .aluno-titulo{
     text-align: center;
     padding: 50px 0;
+}
+
+.alunostudin{
+    display: grid;
+    grid-template-columns: 10% 20% 20% 20% 20% 10%;
+}
+
+.aluno-img{
+    border-radius: 12px;
+}
+
+.rodape{
+    background: black;
+    text-align: center;
+}
+ 
+.rodape-img{
+    width: 200px;
+    margin-top: 50px;
 }
